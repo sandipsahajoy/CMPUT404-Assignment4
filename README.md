@@ -12,4 +12,7 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
-
+Reference / Collaboration
+=========================
+Reference Code:
+- https://github.com/jihoonog/CMPUT404-assignment-ajax
